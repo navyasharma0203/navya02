@@ -55,7 +55,7 @@ Replace <your-firebase-api-key>, <your-firebase-auth-domain>, and <your-firebase
 
 3. Upate the flask API server and run app.py.
 
-* The backend server will start running on http://localhost:5000.
+    * The backend server will start running on http://localhost:5000.
 
 #Firebase Setup
 
