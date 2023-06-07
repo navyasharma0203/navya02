@@ -17,27 +17,27 @@ To run this project, you will need the following:
 
 1. Clone the repository:
  
- git clone <repository-url>
+   * git clone <repository-url>
 
 2. Navigate to the project's frontend directory:
 
-cd application-selector-frontend
+   * cd application-selector-frontend
 
 3. Install the required dependencies:
 
-npm install
+   * npm install
 
 4. Create a .env file in the root of the frontend directory and add the following variables:
 
-    REACT_APP_FIREBASE_API_KEY=<your-firebase-api-key>
-    REACT_APP_FIREBASE_AUTH_DOMAIN=<your-firebase-auth-domain>
-    REACT_APP_FIREBASE_PROJECT_ID=<your-firebase-project-id>
+    * REACT_APP_FIREBASE_API_KEY=<your-firebase-api-key>
+    * REACT_APP_FIREBASE_AUTH_DOMAIN=<your-firebase-auth-domain>
+    * REACT_APP_FIREBASE_PROJECT_ID=<your-firebase-project-id>
 
 Replace <your-firebase-api-key>, <your-firebase-auth-domain>, and <your-firebase-project-id> with your actual Firebase configuration values.
 
 5. Start the frontend development server:
  
- npm run dev
+    * npm run dev
 
 
 # Backend Setup
@@ -45,17 +45,17 @@ Replace <your-firebase-api-key>, <your-firebase-auth-domain>, and <your-firebase
 1. Open a new terminal and navigate to the project's backend directory:
 (Clone the following repository to start the backend server - https://github.com/navyasharma0203/oss-content-based-filtering)
 
-cd application-selector-backend
+    * cd application-selector-backend
 
 
 2. Install the required Python packages:
 
-pip install -r requirements.txt
+    * pip install -r requirements.txt
 
 
 3. Upate the flask API server and run app.py.
 
-The backend server will start running on http://localhost:5000.
+* The backend server will start running on http://localhost:5000.
 
 #Firebase Setup
 
