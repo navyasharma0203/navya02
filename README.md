@@ -57,7 +57,7 @@ Replace <your-firebase-api-key>, <your-firebase-auth-domain>, and <your-firebase
 
     * The backend server will start running on http://localhost:5000.
 
-#Firebase Setup
+# Firebase Setup
 
 1. Create a Firebase project in the Firebase Console.
 
